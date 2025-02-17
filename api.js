@@ -273,5 +273,5 @@ app.delete("/delete-product/:id", (req, res) => {
   });
 });
 
-module.exports = app;
+// module.exports = app;
 // app.listen(8090);
